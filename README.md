@@ -58,4 +58,4 @@ Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
 - Nome: Thiago Alberto
 - Email: thiago1alberto@gmail.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/thiago-alberto-864121190/)
+- LinkedIn: [Thiago Alberto](https://www.linkedin.com/in/thiago-alberto-864121190/)

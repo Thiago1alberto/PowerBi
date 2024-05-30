@@ -7,9 +7,7 @@ Bem-vindo ao repositório de dashboards do Power BI! Este repositório contém u
 - [Descrição](#descrição)
 - [Recursos](#recursos)
 - [Requisitos](#requisitos)
-- [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Contato](#contato)
 
@@ -40,19 +38,7 @@ Para visualizar e editar os arquivos .pbix (arquivos do Power BI), você precisa
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - Conta na [Power BI Service](https://powerbi.microsoft.com/service/) (opcional, para compartilhar e publicar relatórios)
 
-## Instalação
-
-1. Clone este repositório para sua máquina local:
-    ```bash
-    git clone https://github.com/seu-usuario/powerbi-dashboards.git
-    ```
-
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd powerbi-dashboards
-    ```
-
-3. Abra o arquivo .pbix no Power BI Desktop para explorar e editar os dashboards.
+- Abra o arquivo .pbix no Power BI Desktop para explorar e editar os dashboards.
 
 ## Uso
 
@@ -61,25 +47,6 @@ Para visualizar e editar os arquivos .pbix (arquivos do Power BI), você precisa
 3. Conecte-se às suas fontes de dados, se necessário.
 4. Explore os relatórios e dashboards interativos.
 5. Publique no Power BI Service se desejar compartilhar com outros.
-
-## Contribuição
-
-Contribuições são bem-vindas! Para contribuir, siga os passos abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch para suas alterações:
-    ```bash
-    git checkout -b minha-feature
-    ```
-3. Faça commit das suas alterações:
-    ```bash
-    git commit -m 'Adicionar nova feature'
-    ```
-4. Envie suas alterações para o repositório remoto:
-    ```bash
-    git push origin minha-feature
-    ```
-5. Abra um Pull Request para revisão.
 
 ## Licença
 

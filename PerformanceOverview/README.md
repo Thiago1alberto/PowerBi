@@ -4,8 +4,9 @@ Este repositório contém o projeto de um dashboard desenvolvido em Power BI uti
 
 ## Visão Geral do Projeto
 
-O dashboard permite analisar:
+![image](https://github.com/user-attachments/assets/6e83a64e-1ae7-4203-8394-1dc7ffa19c08)
 
+O dashboard permite analisar:
 - **Receita e Despesa**: Visualização das receitas e despesas totais.
 - **Estoque x Pedidos**: Comparação entre o nível de estoque e os pedidos ao longo dos meses.
 - **Faturamento por Funcionários**: Avaliação do desempenho dos funcionários em termos de faturamento.
@@ -27,7 +28,7 @@ A base de dados Northwind, um clássico exemplo de banco de dados de vendas, foi
 - **Regions, Territories, Employee_Territories**: Informações sobre regiões e territórios atendidos pelos funcionários.
 
 ### Associações Criadas
-
+![Captura de tela 2024-08-25 142501](https://github.com/user-attachments/assets/ac1e6eba-750a-4270-b41d-6cc25c5d7ccb)
 Foram criadas associações entre todas as tabelas relevantes para garantir a integridade dos dados e permitir análises abrangentes:
 
 - **Orders** foi associado com **Customers**, **Employees**, **Shippers**, e **Order_Details**.

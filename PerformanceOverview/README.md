@@ -3,8 +3,12 @@
 Este repositório contém o projeto de um dashboard desenvolvido em Power BI utilizando a base de dados Northwind. O objetivo deste dashboard é fornecer insights valiosos sobre o gerenciamento de estoque, receitas, despesas, e o desempenho geral dos funcionários.
 
 ## Visão Geral do Projeto
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85061f31-302b-41b3-8da4-71d60a06ee5f" alt="Dashboard Página 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/94094ade-7d30-49ca-b529-6457372287dd" alt="Dashboard Página 2" width="45%">
+</p>
 
-![image](https://github.com/user-attachments/assets/6e83a64e-1ae7-4203-8394-1dc7ffa19c08)
+
 
 O dashboard permite analisar:
 - **Receita e Despesa**: Visualização das receitas e despesas totais.
@@ -28,7 +32,6 @@ A base de dados Northwind, um clássico exemplo de banco de dados de vendas, foi
 - **Regions, Territories, Employee_Territories**: Informações sobre regiões e territórios atendidos pelos funcionários.
 
 ### Associações Criadas
-![Captura de tela 2024-08-25 142501](https://github.com/user-attachments/assets/ac1e6eba-750a-4270-b41d-6cc25c5d7ccb)
 Foram criadas associações entre todas as tabelas relevantes para garantir a integridade dos dados e permitir análises abrangentes:
 
 - **Orders** foi associado com **Customers**, **Employees**, **Shippers**, e **Order_Details**.

@@ -46,7 +46,6 @@ Para visualizar e editar os arquivos .pbix (arquivos do Power BI), você precisa
 2. Carregue qualquer arquivo .pbix do repositório.
 3. Conecte-se às suas fontes de dados, se necessário.
 4. Explore os relatórios e dashboards interativos.
-5. Publique no Power BI Service se desejar compartilhar com outros.
 
 ## Licença
 

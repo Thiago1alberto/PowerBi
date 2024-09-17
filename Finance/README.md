@@ -1,4 +1,4 @@
-# Dashboard Power BI: Desvendando a Curva de Laffer nas Vendas.
+# Dashboard Power BI: Curva de Laffer.
 
 Uma análise visual e interativa para otimizar suas estratégias de precificação.
 Este dashboard oferece uma análise visual e interativa dos seus dados de vendas, com o objetivo de maximizar seus lucros e tomar decisões estratégicas mais assertivas.
